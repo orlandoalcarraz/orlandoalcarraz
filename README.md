@@ -22,7 +22,7 @@
   /></a>
 </p>
 
-- 💬 Ask me about **python, machine learning, deep learning**
+- 💬 Ask me about **python, machine learning and deep learning**
 
 - 📫 Reach me at **orlando26alcarraz@gmail.com**
 
@@ -33,15 +33,15 @@
   <a href="https://twitter.com/alcarrazorlando" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      src="https://www.vectorlogo.zone/logos/x/x-icon.svg"
       alt="alcarrazorlando"
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/orlandoalcarraz" target="blank"
+ <a href="https://linkedin.com/in/orlandoalcarraz" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="orlandoalcarraz"
       height="30"
       width="40"
@@ -49,7 +49,7 @@
   <a href="https://fb.com/orlandoalcarrazalvarez" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="orlandoalcarrazalvarez"
       height="30"
       width="40"
@@ -57,7 +57,7 @@
   <a href="https://instagram.com/orlando.alcarraz" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="orlando.alcarraz"
       height="30"
       width="40"
