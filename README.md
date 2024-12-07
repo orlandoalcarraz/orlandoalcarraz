@@ -26,7 +26,7 @@
 
 - 📫 Reach me at **orlando26alcarraz@gmail.com**
 
-- 👨‍💻 All of my projects are available at [orlandoalcarraz](orlandoalcarraz)
+- 👨‍💻 All of my projects are available at [orlandoalcarraz](https://github.com/orlandoalcarraz?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
