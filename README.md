@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/alcarrazorlando" target="blank"
+  <a href="https://x.com/alcarrazorlando" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/alcarrazorlando?logo=twitter&style=for-the-badge"
       alt="alcarrazorlando"
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/alcarrazorlando" target="blank"
+  <a href="https://x.com/alcarrazorlando" target="blank"
     ><img
       align="center"
       src="https://www.vectorlogo.zone/logos/x/x-icon.svg"
@@ -46,7 +46,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/orlandoalcarrazalvarez" target="blank"
+  <a href="https://facebook.com/orlandoalcarrazalvarez" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
